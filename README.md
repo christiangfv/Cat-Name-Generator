@@ -1,4 +1,4 @@
-# hello_world
+# Cat Name Generator
 
 A new Flutter project.
 
